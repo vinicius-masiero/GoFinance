@@ -22,6 +22,8 @@ $ git clone https://github.com/vinicius-masiero/GoFinance.git
 ```
 ### 📦 Run Server
 
+To run this server you need to have a PostgreSQL database running with docker, remember to change the database configuration inside the project if needed.
+
 ```bash
 # Go to server folder
 $ cd GoFinance/server
@@ -35,8 +37,6 @@ $ yarn start
 Access Server at http://localhost:3333/
 
 ### 💻 Run Web Project
-
-To run this server you need to have a PostgreSQL database running with docker, remember to change the database configuration inside the project if needed.
 
 ```bash
 # Go to web folder
