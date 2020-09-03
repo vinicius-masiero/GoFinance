@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://github.com/vinicius-masiero/GoFinance/blob/master/.github/logo.png" alt="GoFinance" width="280"/>
+
+</div>
+
 # :computer: Technologies
 This project was made using the following technologies:
 <ul>
